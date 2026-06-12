@@ -1,0 +1,6 @@
+{
+  "name": "Collaborative AI Learning Platform",
+  "description": "A collaborative full-stack web platform where primary school students read AI-ethics storybooks and engage in shared group chats with an AI Agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
